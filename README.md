@@ -67,7 +67,7 @@ A conquista de 2015 também foi um marco na história recente da Liga dos Campe�
     </main>
 
     <footer>
-        <p>Autor:[rian,juliander,luan] - [02/09]
+        <p>Autor:[rian,juliander,luan,yan] - [02/09]
     </footer>
 
 </body>
